@@ -53,6 +53,7 @@ arr.push("A");
 를 확인해보니 정말 const의 값이 변하는것을 확인하였다.
 
 <br>
+
 # *4. 결론*
 const는 값이 변할 수 있다.
 slice와 splice는 다르다.

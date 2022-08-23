@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "2. language/javascript/splice의 위험성 및 const 의 재발견.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. language/javascript/splice의 위험성 및 const 의 재발견.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. language/javascript/splice의 위험성 및 const 의 재발견.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. language/javascript/splice의 위험성 및 const 의 재발견.md"
               }
             }
           },
@@ -138,9 +138,9 @@
   },
   "active": "5a76afd48d132d54",
   "lastOpenFiles": [
+    "README.md",
     "_Template/제텔카스텐 템풀릿.md",
     "2. language/javascript/splice의 위험성 및 const 의 재발견.md",
-    "README.md",
     "3. 일간노트/2022-08-22.md",
     "무제노트.md"
   ]
