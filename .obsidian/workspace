@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5a76afd48d132d54",
+        "id": "1570a51db73b8f86",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -109,11 +109,19 @@
             "file": "README.md"
           }
         }
+      },
+      {
+        "id": "3193ab90a4acd90e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
-  "active": "5a76afd48d132d54",
+  "active": "1570a51db73b8f86",
   "lastOpenFiles": [
     "README.md",
     "2. language/javascript/splice의 위험성 및 const 의 재발견.md",
