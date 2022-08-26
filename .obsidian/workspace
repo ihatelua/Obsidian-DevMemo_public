@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "2. language/javascript/LGE_000002. 커스텀이벤트.md",
             "mode": "source",
             "source": false
           }
@@ -19,113 +19,120 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eef1285467776111",
-    "type": "mobile-drawer",
+    "id": "ed254b5d89872719",
+    "type": "split",
     "children": [
       {
-        "id": "460e3b2f0335c9f5",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "aaa9e2e3c65cba24",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "15ba1a25c36dbbfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1365afec9a9892d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90fb720f060a9b6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "200d6f7414bde46e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "a5fd29c0c2337c71",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "1b4bc48b86c0e3b4",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "8c7118bac0359694",
-    "type": "mobile-drawer",
+    "id": "e3fa05a6dcd7e2ba",
+    "type": "split",
     "children": [
       {
-        "id": "18a310b812adc3f1",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "README.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "46bd8e23c322109a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a94bdceca41f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. language/javascript/LGE_000002. 커스텀이벤트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "deb4846d97246000",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. language/javascript/LGE_000002. 커스텀이벤트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a548b02a2ff17cf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97870b4f15dea3dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. language/javascript/LGE_000002. 커스텀이벤트.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "7a91a8a4329a3b5b",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "README.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "429ecc17e8cb18a4",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "README.md"
-          }
-        }
-      },
-      {
-        "id": "3193ab90a4acd90e",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 3
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "1570a51db73b8f86",
+  "active": "36a94bdceca41f56",
   "lastOpenFiles": [
+    "2. language/javascript/LGE_000001. splice의 위험성 및 const 의 재발견.md",
+    "_Template/제텔카스텐 템풀릿.md",
     "README.md",
     "2. language/javascript/splice의 위험성 및 const 의 재발견.md",
-    "_Template/제텔카스텐 템풀릿.md",
     "3. 일간노트/2022-08-22.md",
     "무제노트.md"
   ]
